@@ -41,5 +41,5 @@ export const reducer = (state = initialState, action ) => {
 
 //create store
 export const initStore = ( initialState = startState ) => {
-    return createStore ( reducer, initialState, composeWithDevTools(applyMiddleware ( thunkMiddleware ))));
+    return createStore ( reducer, initialState, composeWithDevTools(applyMiddleware ( thunkMiddleware )));
 }
