@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "animation": "card",
+        "description": "rabbits"
+    },
+    {
+        "id": 1,
+        "animation": "card",
+        "description": "lions"
+    },
+    {
+        "id": 2,
+        "animation": "card",
+        "description": "wolves"
+    },
+    {
+        "id": 3,
+        "animation": "card",
+        "description": "rabbits"
+    },
+    {
+        "id": 4,
+        "animation": "card",
+        "description": "lions"
+    },
+    {
+        "id": 5,
+        "animation": "card",
+        "description": "wolves"
+    },
+    {
+        "id": 6,
+        "animation": "card",
+        "description": "rabbits"
+    },
+    {
+        "id": 7,
+        "animation": "card",
+        "description": "lions"
+    },
+    {
+        "id": 8,
+        "animation": "card",
+        "description": "wolves"
+    },
+    {
+        "id": 9,
+        "animation": "card",
+        "description": "rabbits"
+    },
+    {
+        "id": 10,
+        "animation": "card",
+        "description": "lions"
+    },
+    {
+        "id": 11,
+        "animation": "card",
+        "description": "wolves"
+    }
+]
